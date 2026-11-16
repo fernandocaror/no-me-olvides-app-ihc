@@ -1,0 +1,32 @@
+Evaluación del prototipo   
+
+Para identificar problemas de usabilidad y validar el diseño, se realizó una 
+prueba de prototipado en papel con un grupo de 3 participantes (un niño de 6 
+años en etapa de lectura inicial, un estudiante universitario y un adulto trabajador), 
+a quienes se les pidió completar tres tareas específicas interactuando directamente 
+sobre las hojas dibujadas:   
+
+- Niño de 6 años:
+Tarea: "Imagina que vas saliendo de casa a la feria; toca el destino en la pantalla inicial".
+Qué ocurrió en la prueba: Reconoció los destinos por su emoji y eligió el destino "Feria" sin 
+dificultad al tocar su tarjeta.
+Decisión de diseño: Se mantuvieron las tarjetas amplias y de alto contraste.   
+
+- Estudiante universitario:
+Tarea: "Dentro de la lista de objetos, indica dónde presionarías para eliminar un elemento".
+Qué ocurrió en la prueba: Intuyó que el icono del lápiz sobre la lista servía para eliminar un objeto.
+Decisión de diseño: Se mantuvo el lápiz para editar/eliminar.   
+
+- Adulto trabajador:
+Tarea: "Observa la lista de objetos y presiona el botón que usarías para que te llegue una 
+notificación antes de salir".
+Qué ocurrió en la prueba: Tocó el icono de la campana para activar la notificación.
+Decisión de diseño: Se mantuvo el icono de la campana para activar las notificaciones.   
+
+#Hallazgos y resultados obtenidos tras la prueba:
+Comprensión del flujo: El 100 % de los participantes completó su tarea sin dudas sobre las 
+pantallas dibujadas.
+Validación post evaluación: Se mantuvieron las tarjetas amplias y los emojis como apoyo visual 
+rápido, se conservó el icono de lápiz sobre la lista para edición/eliminación, se mantuvo el 
+icono de la campana para configurar recordatorios, se conservó el icono del ojo para ocultar 
+objetos temporalmente y se destacó el botón "+ Agregar objeto" en la parte inferior.  

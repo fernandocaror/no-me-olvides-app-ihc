@@ -1,0 +1,34 @@
+Diseño visual y emocional   
+
+#Metáfora de interfaz:
+La metáfora que representa a la aplicación es "una lista de compras (checklist) 
+en un papel, pero en el celular y con objetos que necesitas antes de salir de casa".   
+
+#Colores y jerarquía visual:
+
+-Azul (#2563EB): Color principal para encabezados y botones primarios, asociado con 
+la confianza y seguridad.
+-Blanco (#FFFFFF) / Gris muy claro (#F8FAFC): Como fondo en modo claro, ya que 
+transmite paz, orden y limpieza visual (en modo oscuro se utiliza gris pizarra #0F172A 
+para evitar fatiga ocular).
+-Verde (#16A34A): Para representar objetos preparados/marcados y la pantalla de lista 
+completada. Transmite tranquilidad y positivismo.
+-Gris neutro (#64748B): Para elementos secundarios y bordes de objetos sin marcar, 
+evitando el ruido visual.   
+
+#Tipografía y legibilidad:
+
+Se definió el uso de Roboto, una tipografía sans-serif fácil de leer en dispositivos móviles.
+-Títulos de pantalla: 24 px (Negrita).
+-Nombres de destinos: 18 px (Seminegrita).
+-Texto de los objetos en las listas: 16 px (Regular).   
+
+#Diseño emocional y sensación de control:
+
+-Nivel visceral: Corresponde a la primera impresión visual. La aplicación presenta espacios 
+en blanco amplios, esquinas redondeadas y colores suaves que reducen la ansiedad del usuario.
+-Nivel conductual: Se relaciona con la facilidad y eficacia de uso. El usuario siente control 
+total porque cada toque genera una respuesta inmediata (cambio a verde y tachado suave), puede 
+deshacer un marcado si se equivoca y puede ocultar ítems sin borrarlos definitivamente.
+-Nivel reflexivo: Se relaciona con el valor personal que el usuario atribuye al producto. 
+Al cerrar la puerta con la confirmación "¡Todo en orden!", la aplicación entrega tranquilidad y paz mental.
