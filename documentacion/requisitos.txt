@@ -1,0 +1,64 @@
+Descubrimiento de requisitos
+
+#Identificación del problema:
+
+Con más frecuencia de lo que parece, las personas olvidan 
+objetos al salir de casa, como llaves, billetera, documentos, 
+paraguas o incluso el teléfono, en especial cuando tienen prisa. 
+Además, los objetos varían dependiendo del destino. La aplicación 
+busca reducir estos olvidos a través de listas simples, 
+personalizadas y organizadas por destino. 
+
+#Objetivo general:
+
+Diseñar una aplicación móvil sencilla que permita recordar los 
+objetos necesarios antes de salir de casa, considerando el destino fijado.   
+
+#Tarea principal:
+Seleccionar un destino preconfigurado (ej. Trabajo) y verificar mediante 
+marcado rápido en pantalla que todos los objetos necesarios estén guardados 
+antes de salir del hogar.   
+
+#Usuarios objetivo y contexto de uso:
+
+La aplicación está dirigida principalmente a personas que deseen organizar 
+los objetos que necesitan llevar al salir de casa. Se consideran principalmente 
+estudiantes, trabajadores, personas con diagnóstico TEA/TDAH, personas que 
+realizan compras frecuentemente y, por sobre todo, personas que tienen historial 
+de olvidar objetos cada vez que salen de casa. Se utilizará principalmente dentro 
+de casa (pasillo, entrada del hogar o dormitorio), en los minutos previos a 
+abandonar la vivienda.
+
+#Requisitos funcionales:
+
+-RF01: Debe permitir crear listas de objetos para un destino específico.
+-RF02: Debe permitir agregar o eliminar objetos de una lista.
+-RF03: Debe permitir marcar objetos como guardados/preparados.
+-RF04: Debe permitir ingresar la hora de salida aproximada.
+-RF05: Debe tener la opción de activar notificaciones para cada lista.
+-RF06: Debe notificar en un momento cercano a la hora de salida con la pregunta 
+"¿Llevas todo lo que necesitas?" o con la frase "No me olvides".
+-RF07: Debe contener una lista de sonidos de duración breve (menor a 0.5 segundos) 
+para personalizar el recordatorio.
+-RF08: Debe permitir regresar a la pantalla principal en cualquier momento.
+-RF09: Debe integrar un modo oscuro opcional.
+-RF10: Debe permitir añadir emojis a los nombres de objetos y nombres de destino 
+para facilitar el reconocimiento visual.   
+
+#Requisitos no funcionales:
+
+-Usabilidad: La aplicación debe ser intuitiva y fácil de utilizar (aprendizaje 
+inmediato sin necesidad de tutoriales).
+-Accesibilidad: Debe contener un tamaño de texto base de 16 px y botones reconocibles 
+(con área táctil mínima de 48x48 px).
+-Eficiencia: Las acciones principales deben realizarse directamente sin pasos 
+adicionales (máximo 2 toques desde la apertura hasta el marcado de objetos).
+-Consistencia: Los botones y elementos visuales deben tener el mismo comportamiento 
+en diferentes dispositivos y sistemas operativos.
+-Simplicidad: La aplicación no debe contener funciones innecesarias ni anuncios que 
+afecten la experiencia.   
+
+#Alternativa seleccionada:
+Se selecciona la alternativa 2 (Listas organizadas por destino) ya que presenta el 
+mejor equilibrio entre simplicidad y utilidad. La aplicación permitirá a las personas 
+seleccionar su destino y personalizar las listas sin añadir funciones avanzadas ni complejas.   
